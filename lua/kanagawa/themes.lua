@@ -203,18 +203,18 @@ return {
                 fg_reverse = palette.waveBlue1,
 
                 bg_dim     = palette.dragonBlack1,
-                bg_gutter  = palette.dragonBlack4,
+                bg_gutter  = palette.dragonBlack2,
 
                 bg_m3      = palette.dragonBlack0,
                 bg_m2      = palette.dragonBlack1,
                 bg_m1      = palette.dragonBlack2,
                 bg         = palette.dragonBlack3,
-                bg_p1      = palette.dragonBlack4,
+                bg_p1      = palette.dragonBlack5,
                 bg_p2      = palette.dragonBlack5,
 
                 special    = palette.dragonGray3,
                 whitespace = palette.dragonBlack6,
-                nontext    = palette.dragonBlack6,
+                nontext    = palette.lotusGray3,
 
                 bg_visual  = palette.waveBlue1,
                 bg_search  = palette.waveBlue2,
